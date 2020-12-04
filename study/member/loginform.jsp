@@ -1,6 +1,5 @@
 <%@ page contentType="text/html;charset=utf-8"%>
 <!doctype html>
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -69,7 +68,6 @@ span.psw {
 </style>
 
 <script>
-
 function login(){
 	//post 방식으로 웹서버에 요청하자!!
 	form1.method="post";//문서의 body영역으로 즉, 편지지에 데이터 나른다.
